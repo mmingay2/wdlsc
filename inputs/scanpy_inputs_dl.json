@@ -1,0 +1,12 @@
+{
+	"scanpymm.data_map": {
+		"MantonBM1_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM1_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM2_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM2_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM3_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM3_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM4_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM4_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM5_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM5_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM6_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM6_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM7_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM7_HiSeq_1/raw_feature_bc_matrix.h5",
+		"MantonBM8_HiSeq_1": "https://storage.googleapis.com/terra-featured-workspaces/Cumulus/cellranger_output/MantonBM8_HiSeq_1/raw_feature_bc_matrix.h5"
+	}
+}

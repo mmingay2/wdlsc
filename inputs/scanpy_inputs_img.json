@@ -1,0 +1,13 @@
+{
+	"scanpymm.data_map": {
+		"MantonBM1_HiSeq_1": "data/raw_feature_bc_matrix_1.h5",
+		"MantonBM2_HiSeq_1": "data/raw_feature_bc_matrix_2.h5",
+		"MantonBM3_HiSeq_1": "data/raw_feature_bc_matrix_3.h5",
+		"MantonBM4_HiSeq_1": "data/raw_feature_bc_matrix_4.h5",
+		"MantonBM5_HiSeq_1": "data/raw_feature_bc_matrix_5.h5",
+		"MantonBM6_HiSeq_1": "data/raw_feature_bc_matrix_6.h5",
+		"MantonBM7_HiSeq_1": "data/raw_feature_bc_matrix_7.h5",
+		"MantonBM8_HiSeq_1": "data/raw_feature_bc_matrix_8.h5"
+	}
+}
+
