@@ -54,7 +54,7 @@ for i in {1..8}; do wget "https://storage.googleapis.com/terra-featured-workspac
 Run `scanpy_img.wdl` and include`-Dconfig.file=custom.conf` to use local data after downloading the data.
 
 ```
-java -Dconfig.file=custom.conf -jar cromwell-85.jar run scanpy_img.wdl -i inputs/scanpy_inputs_img.json
+java -jar cromwell-85.jar run scanpy_img.wdl -i inputs/scanpy_inputs_img.json
 ```
 
 > Note the scanpy python script `scanpy_processing.py` is located and run from inside the docker image in both of the above WDL workflows.
